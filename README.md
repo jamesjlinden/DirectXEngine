@@ -1,2 +1,2 @@
-# DirectXEngine
-Game Engine in C++ using DirectX for learning and demo purposes
+# IntroToDXTutorial
+Following along with Frank Luna's Introduction to DirectX 12 tutorial
